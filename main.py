@@ -1,12 +1,3 @@
-'''
-it doesnt feel right since i coded this around the Sokoban example. But i wasted a lot of time looking for textures
-or drawing them myself. it was a fun experience nonetheless...
-If i hadn't started the project so late... i would have tried to add:
-different levels(easy, medium, hard, extreme), and the game would have asked to pick one before starting
-maybe add abilities to grab and drag props
-better textures which suited the theme
-'''
-
 import pygame
 
 class Ralph:
